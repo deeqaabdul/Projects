@@ -1,1 +1,1 @@
-# Projects
+# Synonym Wizard 
